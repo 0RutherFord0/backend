@@ -1,0 +1,13 @@
+{
+"name":{
+        "first": "Aditya",
+        "last": "Tawade"
+    },
+    "age": 24,
+    "dob": "17 August 1995",
+    "hobbies":[
+        "qwerty",
+        ""
+    ]
+
+}
